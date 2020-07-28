@@ -1,2 +1,2 @@
 # 42sh
-projet qui consiste a créer un interpréteur de commande
+projet qui consiste a créer un interpréteur de commande shell
